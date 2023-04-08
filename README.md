@@ -4,5 +4,6 @@
 #### Run Cypress tests in the graphical mode:
 
 ```
+yarn install
 yarn cy:open
 ```
