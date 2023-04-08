@@ -1,0 +1,16 @@
+{
+  "name": "acre-automation",
+  "version": "1.0.0",
+  "description": "automation framework",
+  "main": "index.js",
+  "author": "taseer",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.9.0",
+    "typescript": "^5.0.3",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "cy:open": "cypress open"
+  }
+}
